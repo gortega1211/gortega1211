@@ -1,10 +1,10 @@
 # Hola 👋, soy Gustavo Ortega Palacios
 
-Usa este espacio para presentarte y contar a la comunidad de GitHub cuál es tu experiencia, tus habilidades y tus objetivos profesionales.
+<!-- Usa este espacio para presentarte y contar a la comunidad de GitHub cuál es tu experiencia, tus habilidades y tus objetivos profesionales.
 
 Puedes usar este espacio para incluir información sobre tu educación, tus certificaciones, tus proyectos, tus logros y tus metas profesionales.
 
-Puedes implementar el resumen de Linkedin en este espacio, o puedes personalizarlo según tus necesidades y preferencias.
+Puedes implementar el resumen de Linkedin en este espacio, o puedes personalizarlo según tus necesidades y preferencias. -->
 
 ## 📫 Contacto
 
