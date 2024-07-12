@@ -43,12 +43,12 @@ Estudié 🎓 en la Universidad Tecnológica del Perú [UTP](https://www.utp.edu
 
 <hr>
 
-<a href="https://github.com/gortega1211/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gortega1211&show_owner=true&hide=issues&theme=radical&show_icons=true"/>
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gortega1211&theme=merko&show_icons=true&hide_border=true&count_private=true)
 
 <hr>
 
-<a href="https://github.com/gortega1211/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gortega1211&layout=compact&langs_count=8&card_width=320" />
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gortega1211&theme=merko&show_icons=true&hide_border=true&layout=compact)
+
+<hr>
+
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=gortega1211&theme=merko&hide_border=true)
