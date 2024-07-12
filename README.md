@@ -41,4 +41,14 @@ Estudié 🎓 en la Universidad Tecnológica del Perú [UTP](https://www.utp.edu
 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
+<hr>
 
+<a href="https://github.com/gortega1211/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gortega1211&show_owner=true&hide=issues&theme=radical&show_icons=true"/>
+</a>
+
+<hr>
+
+<a href="https://github.com/gortega1211/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gortega1211&layout=compact&langs_count=8&card_width=320" />
+</a>
