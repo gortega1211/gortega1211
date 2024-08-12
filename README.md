@@ -1,10 +1,75 @@
 # Hola 👋, soy Gustavo Ortega Palacios
 
-Un Back End Developer 🧑🏻💻 especializado en Python 🐍, con +7 de experiencia trabajando con el ERP Odoo desde su v8 hasta la actual v17, desarrollando módulos a medida y customizando los mismos para diversos rubros, poseo conocimientos de desarrollo frontend los cuales estoy mejorando.
+Un Back End Developer 🧑🏻💻 especializado en Python 🐍, con +7 de experiencia trabajando con el ERP Odoo desde su v8 hasta la actual v17, desarrollando módulos a medida y customizando los mismos para diversos rubros, también poseo conocimientos de desarrollo frontend los cuales estoy mejorando constantemente.
 
-Me encanta los retos que pongn a prueba mis conocimientos y mis habilidades para complir con lo propuesto. He tenido la grata experiencia de ser docente, y me encanta compartir mis conocimientos aprendiendo de los estudiantes y sus diferentes puntos de vistas frente a los problemas propuestos.
+Me encanta los retos que pongn a prueba mis conocimientos y habilidades para cumplir con lo propuesto. He tenido la grata experiencia de ser docente, y me encanta compartir mis conocimientos aprendiendo de los estudiantes y sus diferentes puntos de vistas frente a los problemas propuestos.
 
 Estudié 🎓 en la Universidad Tecnológica del Perú [UTP](https://www.utp.edu.pe/?utm_source=google&utm_medium=cpc&utm_campaign=performance_todas_search_trafico_lima-provincias_aon_utp&utm_term=todas_lima-provincias_kw-exacta-utp&utm_content=rsa&gad_source=1&gclid=Cj0KCQjw-ai0BhDPARIsAB6hmP7AaRbTIheusut0pACHtxr6RKZcCpKjw-ahPUzQ072u17Smr2tMVicaAkq2EALw_wcB) graduandome como Ingeniero de Sistemas e informática. También tomé cursos para mejorar mis conocimientos certificandome en plataformas como [Platzi](https://platzi.com) y [Udemy](https://www.udemy.com) sientiendo más amor por la carrera que escogí.
+
+## 👨🏻‍💻 Proyectos / Desarrollos
+
+### Odoo
+---
+
+He formado parte de proyectos con la finalidad de desarrollar módulos para empresas:
+- Clínica Dental.
+- Minimarkets.
+- Comerciales varios / Puntos de Venta.
+- Restaurantes.
+- Logística.
+- Transporte.
+- Instituciones Educativas.
+
+A través de estos proyectos, he mejorado mis habilidades en:
+- Reportes PDF / XLSX / TXT.
+- Integraciones con la API externa de Odoo.
+- Integraciones desde otras aplicaciones con Odoo, mediante APIs.
+- Acciones Planificadas.
+- CRM.
+- Sitios Web.
+- E-Commerce.
+- Pasarelas de Pago.
+- Exportaciones / Importaciones de datos.
+
+Los módulos con los cuales cuento experiencia son:
+```
+|      Recursos Humanos      |
+| -------------------------- |
+| Empleados| Nóminas | Flota |
+
+
+|             Ventas            |
+| ----------------------------- |
+| CRM | Ventas | Punto de Venta |
+
+
+|         Inventario y Fabricación         |
+| ---------------------------------------- |
+| Inventario | Compras | MRP (Fabricación) |
+
+
+|                       Sitio Web                      |
+| ---------------------------------------------------- |
+| Sitio Web | Blog | Comercio Electrónico | E-learning |
+
+
+|                        Servicios                        |
+| ------------------------------------------------------- |
+| Proyectos | Servicio de Asistencia | Citas | Dashboards |
+
+
+|                               Finanzas                              |
+| ------------------------------------------------------------------- |
+| Facturación | Contabilidad | Gastos | Documentos | Hojas de Cálculo |
+```
+
+### Django
+---
+##### 1. Venta / Compra de Articulos Diversos
+Estuve en el equipo de desarrollo back-end encargandome de la lógica e integración con el front-end. Con este proyecto di mis primeros pasos trabajando con Django y pude aprender lo básico de este framework.
+
+##### 2. API para consultas desde Odoo
+Forme parte del desarrollo de una API que pueda ser consultada desde diferentes instancias y versiones de Odoo desde un aplicativo móvil. Esto fue un reto, ya que las diferentes versiones de Odoo llegan a tener diferentes campos, lo cual me condujo a la profundizar mucho respecto al contenido que odoo ofrece a través de su **External API** y como **Django** puede mostrar dicha inforamción a través de Serializadores, Vistas, Modelos, etc.
 
 ## 📫 Contacto
 
