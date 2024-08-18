@@ -6,7 +6,7 @@ Me encanta los retos que pongn a prueba mis conocimientos y habilidades para cum
 
 Estudié 🎓 en la Universidad Tecnológica del Perú [UTP](https://www.utp.edu.pe/?utm_source=google&utm_medium=cpc&utm_campaign=performance_todas_search_trafico_lima-provincias_aon_utp&utm_term=todas_lima-provincias_kw-exacta-utp&utm_content=rsa&gad_source=1&gclid=Cj0KCQjw-ai0BhDPARIsAB6hmP7AaRbTIheusut0pACHtxr6RKZcCpKjw-ahPUzQ072u17Smr2tMVicaAkq2EALw_wcB) graduandome como Ingeniero de Sistemas e informática. También tomé cursos para mejorar mis conocimientos certificandome en plataformas como [Platzi](https://platzi.com) y [Udemy](https://www.udemy.com) sientiendo más amor por la carrera que escogí.
 
-## 👨🏻‍💻 Proyectos / Desarrollos
+## 👨🏻‍💻 Proyectos
 
 ### Odoo
 ---
@@ -73,8 +73,9 @@ Forme parte del desarrollo de una API que pueda ser consultada desde diferentes 
 
 ## 🎓 Experiencia
 
-- [Desafío Latam](https://www.desafiolatam.com/): Asistente Administrativo.
-- [Inforcap](https://inforcap.cl/): Asistente Administrativo.
+- [UTP](https://utp.edu.pe/): Ponente en Curso de Programación Python Básico.
+- [Desafío Latam](https://www.desafiolatam.com/): Asistente Administrativo en Bootacamp de Python.
+- [Inforcap](https://inforcap.cl/): Asistente Administrativo en Bootacamp de Python.
 
 ## 📫 Contacto
 
