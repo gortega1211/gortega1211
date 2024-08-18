@@ -65,10 +65,10 @@ Los módulos con los cuales cuento experiencia son:
 
 ### Django
 ---
-##### 1. Venta / Compra de Articulos Diversos
+#### 1. Venta / Compra de Articulos Diversos
 Estuve en el equipo de desarrollo back-end encargandome de la lógica e integración con el front-end. Con este proyecto di mis primeros pasos trabajando con Django y pude aprender lo básico de este framework.
 
-##### 2. API para consultas desde Odoo
+#### 2. API para consultas desde Odoo
 Forme parte del desarrollo de una API que pueda ser consultada desde diferentes instancias y versiones de Odoo desde un aplicativo móvil. Esto fue un reto, ya que las diferentes versiones de Odoo llegan a tener diferentes campos, lo cual me condujo a la profundizar mucho respecto al contenido que odoo ofrece a través de su **External API** y como **Django** puede mostrar dicha inforamción a través de Serializadores, Vistas, Modelos, etc.
 
 ## 🎓 Experiencia
@@ -91,22 +91,20 @@ Forme parte del desarrollo de una API que pueda ser consultada desde diferentes 
 
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 🖼 Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-
-
-### 📎 Platform as a Service (PaaS)
-![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
 ### 🔒 Bases de Datos
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 📝 Sistema de control de versiones
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![BitBucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### 📎 Platform as a Service (PaaS)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### 🖼 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### 🛠 Herramientas
 
@@ -118,5 +116,7 @@ Forme parte del desarrollo de una API que pueda ser consultada desde diferentes 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gortega1211&theme=merko&show_icons=true&hide_border=true&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gortega1211&theme=merko&show_icons=true&hide_border=true&count_private=true) ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=gortega1211&theme=merko&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gortega1211&theme=merko&show_icons=true&hide_border=true&count_private=true)
+
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=gortega1211&theme=merko&hide_border=true)
 
