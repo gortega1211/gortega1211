@@ -71,6 +71,11 @@ Estuve en el equipo de desarrollo back-end encargandome de la lógica e integrac
 ##### 2. API para consultas desde Odoo
 Forme parte del desarrollo de una API que pueda ser consultada desde diferentes instancias y versiones de Odoo desde un aplicativo móvil. Esto fue un reto, ya que las diferentes versiones de Odoo llegan a tener diferentes campos, lo cual me condujo a la profundizar mucho respecto al contenido que odoo ofrece a través de su **External API** y como **Django** puede mostrar dicha inforamción a través de Serializadores, Vistas, Modelos, etc.
 
+## 🎓 Experiencia
+
+- [Desafío Latam](https://www.desafiolatam.com/): Asistente Administrativo.
+- [Inforcap](https://inforcap.cl/): Asistente Administrativo.
+
 ## 📫 Contacto
 
 - Puedes contactarme a través de mi correo electrónico: **gustavo.ortega.palacios@gmail.com**
