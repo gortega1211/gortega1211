@@ -73,9 +73,11 @@ Forme parte del desarrollo de una API que pueda ser consultada desde diferentes 
 
 ## 🎓 Experiencia
 
-- [UTP](https://utp.edu.pe/): Ponente en Curso de Programación Python Básico.
-- [Desafío Latam](https://www.desafiolatam.com/): Asistente Administrativo en Bootacamp de Python.
-- [Inforcap](https://inforcap.cl/): Asistente Administrativo en Bootacamp de Python.
+- [Conflux](https://conflux.pe): Desarrollo de módulos a medida para diversos clientes.
+- [CCPNA](https://cultural.edu.pe): Analista y desarrollador de aplicaciones.
+- [UTP](https://utp.edu.pe): Ponente en Curso de Programación Python Básico.
+- [Desafío Latam](https://www.desafiolatam.com): Asistente Administrativo en Bootacamp de Python.
+- [Inforcap](https://inforcap.cl): Asistente Administrativo en Bootacamp de Python.
 
 ## 📫 Contacto
 
