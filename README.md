@@ -1,3 +1,4 @@
+..
 # Hola 👋, soy Gustavo Ortega Palacios
 
 Un Back End Developer 🧑🏻💻 especializado en Python 🐍, con +7 de experiencia trabajando con el ERP Odoo desde su v8 hasta la actual v17, desarrollando módulos a medida y customizando los mismos para diversos rubros, también poseo conocimientos de desarrollo frontend los cuales estoy mejorando constantemente.
@@ -32,36 +33,18 @@ A través de estos proyectos, he mejorado mis habilidades en:
 - Exportaciones / Importaciones de datos.
 
 Los módulos con los cuales cuento experiencia son:
-```
-|      Recursos Humanos      |
-| -------------------------- |
-| Empleados| Nóminas | Flota |
+
+| Finanzas  | Ventas | Inventario y Fabricación |
+| :-- | :-- | :-- |
+| Contabilidad, Gastos, Hojas de Cálculo | CRM, Ventas, Punto de Venta   | Inventario, Compras, MRP (Fabricación) |
+
+| Sitio Web | Servicios | Recursos Humanos |
+| :-- | :-- | :-- |
+| Sitio Web, Blog, Comercio Electrónico, E-learning | Proyectos, Servicio de Asistencia, Citas, Dashboards | Empleados, Nóminas, Flota |
 
 
-|             Ventas            |
-| ----------------------------- |
-| CRM | Ventas | Punto de Venta |
 
 
-|         Inventario y Fabricación         |
-| ---------------------------------------- |
-| Inventario | Compras | MRP (Fabricación) |
-
-
-|                       Sitio Web                      |
-| ---------------------------------------------------- |
-| Sitio Web | Blog | Comercio Electrónico | E-learning |
-
-
-|                        Servicios                        |
-| ------------------------------------------------------- |
-| Proyectos | Servicio de Asistencia | Citas | Dashboards |
-
-
-|                               Finanzas                              |
-| ------------------------------------------------------------------- |
-| Facturación | Contabilidad | Gastos | Documentos | Hojas de Cálculo |
-```
 
 ### Django
 ---
