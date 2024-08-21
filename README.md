@@ -48,11 +48,14 @@ Los módulos con los cuales cuento experiencia son:
 
 ### Django
 ---
-#### 1. Venta / Compra de Articulos Diversos
-Estuve en el equipo de desarrollo back-end encargandome de la lógica e integración con el front-end. Con este proyecto di mis primeros pasos trabajando con Django y pude aprender lo básico de este framework.
+#### 1. Obox
+Formé parte del proyecto en Djando que permite la creación de una cuenta / empresa, y a su ve<> una servicio de odoo vinculado a dicha empresa, en la cual puede hacer una prueba gratuita de este servicio por 15 días. El reto de este Proyecto fue poder distribuir correctamente los clientes con los servicios de Odoo y sus necesidades.
 
 #### 2. API para consultas desde Odoo
 Forme parte del desarrollo de una API que pueda ser consultada desde diferentes instancias y versiones de Odoo desde un aplicativo móvil. Esto fue un reto, ya que las diferentes versiones de Odoo llegan a tener diferentes campos, lo cual me condujo a la profundizar mucho respecto al contenido que odoo ofrece a través de su **External API** y como **Django** puede mostrar dicha inforamción a través de Serializadores, Vistas, Modelos, etc.
+
+#### 3. Venta / Compra de Articulos Diversos
+Estuve en el equipo de desarrollo back-end encargandome de la lógica e integración con el front-end. Con este proyecto di mis primeros pasos trabajando con Django y pude aprender lo básico de este framework.
 
 ## 🎓 Experiencia
 
