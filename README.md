@@ -4,7 +4,7 @@ Un Back End Developer 🧑🏻💻 especializado en Python 🐍, con +7 de exper
 
 Me encanta los retos que pongn a prueba mis conocimientos y habilidades para cumplir con lo propuesto. He tenido la grata experiencia de ser docente, y me encanta compartir mis conocimientos aprendiendo de los estudiantes y sus diferentes puntos de vistas frente a los problemas propuestos.
 
-Estudié 🎓 en la Universidad Tecnológica del Perú [UTP](https://www.utp.edu.pe) graduandome como Ingeniero de Sistemas e informática. También tomé cursos para mejorar mis conocimientos certificandome en plataformas como [Platzi](https://platzi.com) y [Udemy](https://www.udemy.com) sientiendo más amor por la carrera que escogí.
+Estudié 🎓 en la Universidad Tecnológica del Perú [UTP](https://www.utp.edu.pe) graduandome como Ingeniero de Sistemas e informática. También tomé cursos para mejorar mis conocimientos certificandome en plataformas como [Platzi](https://platzi.com) sientiendo más amor por la carrera que escogí.
 
 ## 👨🏻‍💻 Proyectos
 
