@@ -1,4 +1,3 @@
-..
 # Hola 👋, soy Gustavo Ortega Palacios
 
 Un Back End Developer 🧑🏻💻 especializado en Python 🐍, con +7 de experiencia trabajando con el ERP Odoo desde su v8 hasta la actual v17, desarrollando módulos a medida y customizando los mismos para diversos rubros, también poseo conocimientos de desarrollo frontend los cuales estoy mejorando constantemente.
@@ -10,9 +9,11 @@ Estudié 🎓 en la Universidad Tecnológica del Perú [UTP](https://www.utp.edu
 ## 👨🏻‍💻 Proyectos
 
 ### Odoo
+
 ---
 
 He formado parte de proyectos con la finalidad de desarrollar módulos para empresas:
+
 - Clínica Dental.
 - Minimarkets.
 - Comerciales varios / Puntos de Venta.
@@ -22,6 +23,7 @@ He formado parte de proyectos con la finalidad de desarrollar módulos para empr
 - Instituciones Educativas.
 
 A través de estos proyectos, he mejorado mis habilidades en:
+
 - Reportes PDF / XLSX / TXT.
 - Integraciones con la API externa de Odoo.
 - Integraciones desde otras aplicaciones con Odoo, mediante APIs.
@@ -42,19 +44,20 @@ Los módulos con los cuales cuento experiencia son:
 | :-- | :-- | :-- |
 | Sitio Web, Blog, Comercio Electrónico, E-learning | Proyectos, Servicio de Asistencia, Citas, Dashboards | Empleados, Nóminas, Flota |
 
-
-
-
-
 ### Django
+
 ---
+
 #### 1. Obox
+
 Formé parte del proyecto en Djando que permite la creación de una cuenta / empresa, y a su ve<> una servicio de odoo vinculado a dicha empresa, en la cual puede hacer una prueba gratuita de este servicio por 15 días. El reto de este Proyecto fue poder distribuir correctamente los clientes con los servicios de Odoo y sus necesidades.
 
 #### 2. API para consultas desde Odoo
+
 Forme parte del desarrollo de una API que pueda ser consultada desde diferentes instancias y versiones de Odoo desde un aplicativo móvil. Esto fue un reto, ya que las diferentes versiones de Odoo llegan a tener diferentes campos, lo cual me condujo a la profundizar mucho respecto al contenido que odoo ofrece a través de su **External API** y como **Django** puede mostrar dicha inforamción a través de Serializadores, Vistas, Modelos, etc.
 
 #### 3. Venta / Compra de Articulos Diversos
+
 Estuve en el equipo de desarrollo back-end encargandome de la lógica e integración con el front-end. Con este proyecto di mis primeros pasos trabajando con Django y pude aprender lo básico de este framework.
 
 ## 🎓 Experiencia
@@ -67,10 +70,11 @@ Estuve en el equipo de desarrollo back-end encargandome de la lógica e integrac
 
 ## 📫 Contacto
 
-- Puedes contactarme a través de mi correo electrónico: **gustavo.ortega.palacios@gmail.com**
+- Puedes contactarme a través de mi correo electrónico: **<gustavo.ortega.palacios@gmail.com>**
 - Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/gustavo-ortega-palacios-b80843169/)**
 
 ### 🧑🏻💻 Lenguajes de Programación
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Javascript](https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### ⚙ Backend
@@ -88,6 +92,7 @@ Estuve en el equipo de desarrollo back-end encargandome de la lógica e integrac
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![BitBucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ### 📎 Platform as a Service (PaaS)
+
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### 🖼 Frontend
@@ -100,11 +105,10 @@ Estuve en el equipo de desarrollo back-end encargandome de la lógica e integrac
 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-<hr>
+---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gortega1211&theme=merko&show_icons=true&hide_border=true&layout=compact)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gortega1211&theme=merko&show_icons=true&hide_border=true&count_private=true)
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=gortega1211&theme=merko&hide_border=true)
-
